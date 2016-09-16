@@ -1,0 +1,7 @@
+*.aux
+*.log
+*.pdf
+*.tex.backup
+*.toc
+*.kilepr
+*.out
